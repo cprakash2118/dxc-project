@@ -1,0 +1,65 @@
+Session-01 - Day-01
+#########
+
+
+##
+Day-01
+1) Introduction to Enterprise Linux, Managing Local Users and Groups.
+- Enterprise Linux Installation and login.
+- Describing Users and Groups Concepts 
+- Gaining Superuser Access (Useful production use cases).
+- Managing Local User, User Passwords and Group Accounts 
+- Managing File System Permissions from the Command Line (SUID/SGID/Stick 
+Bits/Umask/ACL)
+- Managing Default Permissions and File Access
+
+##
+2) Tuning System Performance
+- Control and terminate processes that are not associated with your 
+shell, and forcibly end user sessions and processes.
+- Describe what load average is and determine processes responsible for 
+high resource use on a server.
+- Optimize system performance by selecting a tuning profile managed by 
+the tuned daemon.
+- Prioritize or de-prioritize specific processes, with the nice and 
+renice commands.
+- Process Management (LISTING PROCESSES, CONTROLLING JOBS & KILLING 
+PROCESSES).
+- MONITORING PROCESS ACTIVITY
+- MONITORING AND MANAGING LINUX PROCESSES
+
+##
+3) Controlling Services and the Boot Process.
+- List system daemons and network services started by the systemd service 
+and socket units.
+- Control system daemons and network services, using systemctl.
+- Describe the Red Hat Enterprise Linux boot process, set the default 
+target used when booting, and boot a system to non-default target.
+- Log into a system and change the root password when the current root 
+password has been lost.
+- Manually repair file system configuration or corruption issues that 
+stop the boot process.
+
+##
+4) Installing and Updating Software Packages
+- Register a system to your Red Hat account and assign it entitlements 
+for software updates and support services using Red Hat subscription 
+Management 
+- Find, install, and update software packages using the yum command.
+- Enable and disable use of Red Hat or third party Yum repositories by a 
+server.
+- Explain how modules allow installation of specific versions of 
+software, list, enable, and switch module streams, and install and update 
+packages from a module.
+Day-02 
+
+##
+5) Managing SELinux Security
+- Changing the SELinux Enforcement Mode.
+- Controlling SELinux File Contexts.
+- Adjusting SELinux Policy with Booleans.
+
+
+
+
+
