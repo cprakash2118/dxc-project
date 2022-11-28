@@ -1,6 +1,13 @@
 Session-01 - Day-01
 #########
-
+Breaks:-
+9am to 11am   - Session-01 
+11am to 11:15 - Tea Break 
+11:30 to 1:00pm - Session-02 
+1:00pm to 1:45pm - Lunch break
+1:45pm to 3:30pm - Session-03
+3:30pm to 3:45pm - Tea Break 
+4pm to 5PM/5:30  - Session-04 
 
 ##
 Day-01
@@ -89,7 +96,36 @@ NOte: You will get CentOS8.5 Server OS with GNOME (Graphical Screen).
 
 #######################
 
+Day-01;Pashe-01
+##
+1) Introduction to Enterprise Linux, Managing Local Users and Groups.
+- Enterprise Linux Installation and login.
+- Describing Users and Groups Concepts 
+- Gaining Superuser Access (Useful production use cases).
+- Managing Local User, User Passwords and Group Accounts 
+- Managing File System Permissions from the Command Line (SUID/SGID/Stick 
+Bits/Umask/ACL)
+- Managing Default Permissions and File Access
 
+
+Point 1 Introduction to Enterprise Linux, Managing Local Users and Groups.
+- What is "Linux vs Enterprise Linux"?
+  Linux - Community based support 
+  Enterprise Linux - Vendor support based on SLO and SLA 
+  
+  RHEL - Red Hat Enterprise Linux 
+  SUSE - SUSE Enterprise Linux 
+  
+- - Enterprise Linux Installation and login.
+
+
+ User & Group Managment:-
+ User operations
+ Griup Opertions
+ Permission modeal 
+ sudo users
+ ACL (Access COntrol List).
+ umask  
 
 
 
