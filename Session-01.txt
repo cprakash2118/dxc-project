@@ -61,5 +61,40 @@ Day-02
 
 
 
+#####################
+Lab environment:-
+How I can access my labs for more hand-on.
 
+Step 1)
+
+Public Domain                 Private Domain 
+DXC office/home(WFH) --> Labs (Bangalore,ABC - Location)
+ 
+Using RDP Remote Desktop Protocal (Window) connection (IP:port) 
+39.168.54.89:8088
+
+In your mac/win system/laptop - "Type in search "MST" then click on "Remote Desktop Connection" and provide required input.
+Required input - 39.168.54.89:8088
+
+Step 2) 
+Now access your Linux Machine using "vncviewer"
+Type "vncviewer" and provide required input.
+
+Required input - IP:DisplayNumber 
+
+172.168.21.21:02 
+It prompt for password.
+
+NOte: You will get CentOS8.5 Server OS with GNOME (Graphical Screen).
+
+#######################
+
+
+
+
+
+
+
+
+ 
 
